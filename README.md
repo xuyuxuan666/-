@@ -18,3 +18,8 @@ labelImg
 ‘‘‘
 https://github.com/heartexlabs/labelImg
 ’’’
+
+
+
+遇到的问题
+1.
