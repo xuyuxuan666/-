@@ -1,0 +1,38 @@
+<annotation>
+	<folder>待标注</folder>
+	<filename>front_30_777.jpg</filename>
+	<path>D:\Edge Download\待标注\front_30_777.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_arrow_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>157</ymin>
+			<xmax>62</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red_circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>161</ymin>
+			<xmax>215</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>
